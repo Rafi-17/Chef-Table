@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #fff;
+    font-family: "Lexend", sans-serif;
+}
+html {
+    color-scheme: light;
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
